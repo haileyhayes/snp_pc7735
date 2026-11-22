@@ -1,0 +1,42 @@
+#chr	pos	variation	variant_type	snp_id	clinical_significance	validation_status	function_class	gene	frequency
+17	46014271	T>G	snv	63749855	pathogenic	by-cluster	non_coding_transcript_variant;missense_variant;coding_sequence_variant	MAPT	
+17	46010300	G>A,T	snv	63749974	pathogenic	by-cluster	intron_variant	MAPT	
+17	46010405	G>A,C	snv	63750013	pathogenic-likely-pathogenic	by-frequency;by-cluster	intron_variant	MAPT	C:0.000037:1:ExAC|C:0.000002:1:GnomAD_exomes
+17	46014277	A>T	snv	63750092	pathogenic;not-provided	by-frequency;by-cluster	non_coding_transcript_variant;missense_variant;coding_sequence_variant	MAPT	T:0.:0:PAGE_STUDY
+17	46018623	G>A	snv	63750095	not-provided;likely-pathogenic	by-cluster	non_coding_transcript_variant;intron_variant;coding_sequence_variant;missense_variant	MAPT	
+17	45996612	A>C	snv	63750129	pathogenic;not-provided	by-frequency;by-alfa;by-cluster	non_coding_transcript_variant;missense_variant;coding_sequence_variant	MAPT	C:0.0000021:3:GnomAD_exomes|C:0.:0:PAGE_STUDY|C:0.:0:ALFA
+17	46010421	C>G	snv	63750162	likely-pathogenic	by-frequency;by-alfa;by-cluster	intron_variant	MAPT	G:0.0000808:2:ExAC|G:0.0000237:31:GnomAD_exomes|G:0.0000134:2:GnomAD_genomes|G:0.0001542:2:GoESP|G:0.0000113:3:TOPMED|G:0.:0:ALFA
+17	46010415	A>G	snv	63750308	pathogenic;not-provided	by-cluster	intron_variant	MAPT	
+17	45996638	C>G,T	snv	63750349	pathogenic;not-provided;uncertain-significance	by-frequency;by-alfa;by-cluster	non_coding_transcript_variant;missense_variant;coding_sequence_variant;synonymous_variant	MAPT	T:0.000008:1:ExAC|T:0.000002:1:GnomAD_exomes|G:0.:0:PAGE_STUDY|T:0.000004:1:TOPMED|T:0.:0:ALFA
+17	45996657	G>T	snv	63750376	pathogenic;not-provided	by-frequency;by-alfa;by-cluster	non_coding_transcript_variant;missense_variant;coding_sequence_variant	MAPT	T:0.:0:PAGE_STUDY|T:0.:0:ALFA
+17	46024061	C>T	snv	63750424	pathogenic	by-frequency;by-alfa;by-cluster	non_coding_transcript_variant;intron_variant;coding_sequence_variant;missense_variant	MAPT	T:0.0000083:1:ExAC|T:0.0000171:24:GnomAD_exomes|T:0.:0:PAGE_STUDY|T:0.0000129:1:TOMMO|T:0.0001816:4:ALFA
+17	46018675	C>A,T	snv	63750425	pathogenic;not-provided	by-frequency;by-alfa;by-cluster	non_coding_transcript_variant;missense_variant;coding_sequence_variant;stop_gained;intron_variant	MAPT	T:0.0000021:3:GnomAD_exomes|T:0.0000067:1:GnomAD_genomes|T:0.:0:PAGE_STUDY|A:0.0000038:1:TOPMED|T:0.:0:ALFA
+17	46024010	G>A,C	snv	63750512	pathogenic;not-provided;likely-pathogenic	by-frequency;by-alfa;by-cluster	non_coding_transcript_variant;intron_variant;coding_sequence_variant;missense_variant	MAPT	A:0.0000166:2:ExAC|A:0.000005:7:GnomAD_exomes|A:0.0000127:1:PAGE_STUDY|A:0.0000129:1:TOMMO|A:0.0000454:1:ALFA
+17	46010402	T>C	snv	63750568	not-provided;pathogenic-likely-pathogenic	by-cluster	intron_variant;coding_sequence_variant;synonymous_variant	MAPT	
+17	46018629	G>A	snv	63750570	pathogenic;not-provided	by-frequency;by-alfa;by-cluster	non_coding_transcript_variant;intron_variant;coding_sequence_variant;missense_variant	MAPT	A:0.:0:PAGE_STUDY|A:0.:0:ALFA
+17	46014286	C>T	snv	63750635	pathogenic;not-provided	by-frequency;by-alfa;by-cluster	non_coding_transcript_variant;intron_variant;coding_sequence_variant;missense_variant	MAPT	T:0.:0:PAGE_STUDY|T:0.:0:ALFA
+17	46010325	AAG>-	delins	63750688	conflicting-interpretations-of-pathogenicity;likely-pathogenic	by-frequency;by-alfa;by-cluster	intron_variant;coding_sequence_variant;inframe_deletion	MAPT	-:0.0000766:2:ExAC|-:0.0000154:21:GnomAD_exomes|-:0.0000254:2:PAGE_STUDY|-:0.0000189:5:TOPMED|AAGAAG:0.0001423:2:ALFA
+17	46018645	A>T	snv	63750711	pathogenic;not-provided	by-cluster	non_coding_transcript_variant;intron_variant;coding_sequence_variant;missense_variant	MAPT	
+17	46010324	T>G	snv	63750756	pathogenic	by-frequency;by-alfa;by-cluster	intron_variant;coding_sequence_variant;missense_variant	MAPT	G:0.:0:PAGE_STUDY|G:0.:0:ALFA
+17	46018707	G>A	snv	63750869	pathogenic;uncertain-significance;likely-pathogenic	by-frequency;by-alfa;by-cluster	non_coding_transcript_variant;intron_variant;coding_sequence_variant;missense_variant	MAPT	A:0.0004464:2:Estonian|A:0.0000165:2:ExAC|A:0.0000236:33:GnomAD_exomes|A:0.0000469:7:GnomAD_genomes|A:0.0000189:5:TOPMED|A:0.0001053:2:ALFA
+17	46010375	T>C	snv	63750912	pathogenic;not-provided	by-frequency;by-alfa;by-cluster	intron_variant;coding_sequence_variant;synonymous_variant	MAPT	C:0.:0:PAGE_STUDY|C:0.:0:ALFA
+17	45962351	G>A,T	snv	63750959	likely-benign;pathogenic;not-provided;uncertain-significance	by-frequency;by-alfa;by-cluster	non_coding_transcript_variant;missense_variant;coding_sequence_variant	MAPT	A:0.000399:2:1000Genomes|A:0.000312:2:1000Genomes_30X|A:0.000059:7:ExAC|A:0.000034:5:GnomAD_genomes|A:0.001027:3:KOREAN|A:0.001797:13:Korea4K|A:0.000127:10:PAGE_STUDY|A:0.002525:2:PRJEB37584|A:0.000026:2:TOMMO|A:0.000113:19:ALFA
+17	46010416	C>T	snv	63750972	pathogenic;not-provided	by-frequency;by-alfa;by-cluster	intron_variant	MAPT	T:0.00003:2:PAGE_STUDY|T:0.:0:ALFA
+17	46010418	C>G,T	snv	63751011	pathogenic;likely-pathogenic	by-frequency;by-alfa;by-cluster	intron_variant	MAPT	T:0.0000068:9:GnomAD_exomes|T:0.0000038:1:TOPMED|T:0.:0:ALFA
+17	46010401	G>A,T	snv	63751165	pathogenic;not-provided;uncertain-significance	by-frequency;by-alfa;by-cluster	intron_variant;coding_sequence_variant;missense_variant	MAPT	A:0.:0:PAGE_STUDY|A:0.:0:ALFA
+17	46018726	A>T	snv	63751264	pathogenic;not-provided	by-frequency;by-cluster	non_coding_transcript_variant;intron_variant;coding_sequence_variant;missense_variant	MAPT	T:0.:0:PAGE_STUDY
+17	46010389	C>A,G,T	snv	63751273	pathogenic;uncertain-significance	by-frequency;by-alfa;by-cluster	intron_variant;coding_sequence_variant;missense_variant	MAPT	T:0.:0:PAGE_STUDY|T:0.:0:ALFA
+17	46010395	G>T	snv	63751391	pathogenic;not-provided	by-frequency;by-alfa;by-cluster	intron_variant;coding_sequence_variant;missense_variant	MAPT	T:0.:0:ALFA
+17	46010371	ATA>-	delins	63751392	pathogenic;risk-factor	by-cluster	intron_variant;coding_sequence_variant;inframe_deletion	MAPT	
+17	46010413	T>C,G	snv	63751394	likely-benign;pathogenic;not-provided	by-cluster	intron_variant	MAPT	
+17	46010388	C>G,T	snv	63751438	pathogenic;not-provided;likely-pathogenic	by-frequency;by-alfa;by-cluster	intron_variant;coding_sequence_variant;missense_variant	MAPT	T:0.:0:PAGE_STUDY|T:0.:0:ALFA
+17	46010403	G>A	snv	1568327531	pathogenic	by-frequency	splice_donor_variant;intron_variant	MAPT	A:0.0000015:2:GnomAD_exomes
+17	46018672	A>G	snv	1568339821	likely-pathogenic		coding_sequence_variant;non_coding_transcript_variant;intron_variant;missense_variant	MAPT	
+17	46018704	C>T	snv	1568339995	likely-pathogenic		coding_sequence_variant;non_coding_transcript_variant;intron_variant;missense_variant	MAPT	
+17	46018628	G>C	snv	1598408073	pathogenic-likely-pathogenic	by-frequency	intron_variant;non_coding_transcript_variant;missense_variant;coding_sequence_variant	MAPT	C:0.000002:1:GnomAD_exomes
+17	46018710	C>A,T	snv	1598408336	pathogenic;likely-pathogenic		intron_variant;non_coding_transcript_variant;missense_variant;coding_sequence_variant	MAPT	
+17	46018686	T>A	snv	2076339915	likely-pathogenic		coding_sequence_variant;intron_variant;non_coding_transcript_variant;missense_variant	MAPT	
+17	46010325	AAG>-	delins	63750688	conflicting-interpretations-of-pathogenicity;likely-pathogenic	by-frequency;by-alfa;by-cluster	intron_variant;coding_sequence_variant;inframe_deletion	MAPT	-:0.0000766:2:ExAC|-:0.0000154:21:GnomAD_exomes|-:0.0000254:2:PAGE_STUDY|-:0.0000189:5:TOPMED|AAGAAG:0.0001423:2:ALFA
+17	46010325	AAG>-	delins	63750688	conflicting-interpretations-of-pathogenicity;likely-pathogenic	by-frequency;by-alfa;by-cluster	intron_variant;coding_sequence_variant;inframe_deletion	MAPT	-:0.0000766:2:ExAC|-:0.0000154:21:GnomAD_exomes|-:0.0000254:2:PAGE_STUDY|-:0.0000189:5:TOPMED|AAGAAG:0.0001423:2:ALFA
+17	45962351	G>A,T	snv	63750959	likely-benign;pathogenic;not-provided;uncertain-significance	by-frequency;by-alfa;by-cluster	non_coding_transcript_variant;missense_variant;coding_sequence_variant	MAPT	A:0.000399:2:1000Genomes|A:0.000312:2:1000Genomes_30X|A:0.000059:7:ExAC|A:0.000034:5:GnomAD_genomes|A:0.001027:3:KOREAN|A:0.001797:13:Korea4K|A:0.000127:10:PAGE_STUDY|A:0.002525:2:PRJEB37584|A:0.000026:2:TOMMO|A:0.000113:19:ALFA
+17	46010371	ATA>-	delins	63751392	pathogenic;risk-factor	by-cluster	intron_variant;coding_sequence_variant;inframe_deletion	MAPT	
